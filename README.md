@@ -97,8 +97,8 @@ Update your persistence.xml with the correct username, password, and database UR
 ---
 
 # Project Screenshot
+<img width="254" height="218" alt="image" src="https://github.com/user-attachments/assets/eba18cb7-a63a-4b92-b0c1-d3531bbab0f4" />
 
-> <img width="254" height="218" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/b2ea88d5-127f-4604-9907-e888c5eaa91f" />
 
 
 ---
